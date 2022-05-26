@@ -1,1 +1,1 @@
-# Sparse-Nonlinear-Problems-and-Deeep-Learning
+Suject part of the course Projects on Recent Advances in Machine Learning
